@@ -1,4 +1,4 @@
 <hr/>
-<img src="Imagess/2.png">
+<img src="Integral Calculus - II/4.png">
 <hr/>
 <br>
